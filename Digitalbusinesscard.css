@@ -1,0 +1,35 @@
+
+.card {
+    width: 35%;
+    height: 320px;
+    background-color: blueviolet;
+    color : aliceblue;
+}
+.name {
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bolder;
+    position: relative;
+    top: 20px;
+    
+    text-decoration: underline;
+}
+.position {
+    text-align: center;
+}
+.body {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 25px;
+    
+}
+img {
+    width: 100px;
+    height: 90px;
+    border-radius: 120px;
+    position: relative;
+    bottom : 300px;
+    left: 10px;
+}
